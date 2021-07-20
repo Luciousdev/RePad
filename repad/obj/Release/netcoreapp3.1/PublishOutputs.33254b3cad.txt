@@ -1,0 +1,5 @@
+C:\Users\joche\Desktop\repad\repad.exe
+C:\Users\joche\Desktop\repad\repad.dll
+C:\Users\joche\Desktop\repad\repad.deps.json
+C:\Users\joche\Desktop\repad\repad.runtimeconfig.json
+C:\Users\joche\Desktop\repad\repad.pdb

@@ -1,0 +1,15 @@
+C:\Users\joche\source\repos\repad\repad\bin\Release\netcoreapp3.1\repad.exe
+C:\Users\joche\source\repos\repad\repad\bin\Release\netcoreapp3.1\repad.deps.json
+C:\Users\joche\source\repos\repad\repad\bin\Release\netcoreapp3.1\repad.runtimeconfig.json
+C:\Users\joche\source\repos\repad\repad\bin\Release\netcoreapp3.1\repad.runtimeconfig.dev.json
+C:\Users\joche\source\repos\repad\repad\bin\Release\netcoreapp3.1\repad.dll
+C:\Users\joche\source\repos\repad\repad\bin\Release\netcoreapp3.1\repad.pdb
+C:\Users\joche\source\repos\repad\repad\obj\Release\netcoreapp3.1\repad.csproj.AssemblyReference.cache
+C:\Users\joche\source\repos\repad\repad\obj\Release\netcoreapp3.1\repad.repad.resources
+C:\Users\joche\source\repos\repad\repad\obj\Release\netcoreapp3.1\repad.csproj.GenerateResource.cache
+C:\Users\joche\source\repos\repad\repad\obj\Release\netcoreapp3.1\repad.AssemblyInfoInputs.cache
+C:\Users\joche\source\repos\repad\repad\obj\Release\netcoreapp3.1\repad.AssemblyInfo.cs
+C:\Users\joche\source\repos\repad\repad\obj\Release\netcoreapp3.1\repad.csproj.CoreCompileInputs.cache
+C:\Users\joche\source\repos\repad\repad\obj\Release\netcoreapp3.1\repad.dll
+C:\Users\joche\source\repos\repad\repad\obj\Release\netcoreapp3.1\repad.pdb
+C:\Users\joche\source\repos\repad\repad\obj\Release\netcoreapp3.1\repad.genruntimeconfig.cache
